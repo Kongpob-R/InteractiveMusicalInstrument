@@ -10,3 +10,4 @@ All button in this project are interactive with mouse hover and bind to keyboard
 * matplotlib
 * numpy
 * scipy
+* pyaudio
